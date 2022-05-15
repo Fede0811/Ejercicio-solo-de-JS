@@ -1,0 +1,57 @@
+#navegador{
+    color: white !important;
+}
+
+h2{
+    color: white;
+    padding-left: 30px;
+}
+
+
+h1{text-align: center;
+}
+
+#pa{
+    text-align: center;
+}
+
+.izquierda2{
+    width: 50%;
+    height: 5vh;
+}
+.derecha2{
+    width: 50%;
+    height: 5vh;
+}
+
+#pantalla_dividida2{
+    display: flex;
+}
+
+#pie_de_pagina{
+    background-color:#143577;
+    padding-top: 15px;
+    padding-block: 15px;
+}
+
+
+#pie{
+    padding-top: 20px;
+}
+
+h5{
+    text-align: center;
+}
+
+.descuento{
+    text-align: center;
+}
+
+.doc{
+    color: gray;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
